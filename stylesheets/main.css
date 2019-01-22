@@ -29,19 +29,8 @@ body{
   padding-bottom: 10 px;
 }
 
-#main_title{
-  float: left;
-  font-size: 200%;
-  padding-left: 10px;
-}
 
-#login{
-  float: right;
-  font-size: 75%;
-  padding-right: 10px;
-}
-
-#links_on_top{
+.top_links{
   column-count: 3;
   column-width: 33%;
   font-size: 125%;
@@ -52,38 +41,6 @@ body{
   padding-bottom: 5px;
 }
 
-h3{
-  font-size: 150%;
-}
-
-main{
+.DAM{
   font-size: 80%;
-  padding-bottom: 60px;
-}
-
-#art_muesuem_blurb{
-  padding: 15px;
-}
-
-#other_landmarks{
-  padding-top: 15px;
-  padding-right: 10px;
-  padding-left: 10px;
-  column-count: 3;
-  column-width: 33%;
-  column-gap: 25px;
-  text-align: left;
-  font-size: 115%;
-}
-
-img{
-  border: 2px solid #BE51CE;
-  border-width: thin;
-}
-
-footer{
-  bottom: 0;
-  height: 60px;
-  position: absolute;
-  padding: 10px;
 }
