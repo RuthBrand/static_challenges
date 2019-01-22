@@ -46,8 +46,16 @@ header{
   padding-bottom: 5px;
 }
 
-.DAM{
+/* .DAM{
   font-size: 80%;
+} */
+
+h3{
+  font-size: 150%;
+}
+
+p{
+  font-size: 80%
 }
 
 .other_landmarks{
