@@ -21,7 +21,7 @@ body{
   position: relative;
 }
 
-#header{
+header{
   width: 100%;
   background-color: rgba(25,23,30,0.66);
   margin: auto;
@@ -29,6 +29,11 @@ body{
   padding-bottom: 10 px;
 }
 
+#login{
+  float: right;
+  font-size: 75%;
+  padding-right: 10px;
+}
 
 .top_links{
   column-count: 3;
@@ -54,4 +59,11 @@ body{
   column-gap: 25px;
   text-align: left;
   font-size: 115%;
+}
+
+footer{
+  bottom: 0;
+  height: 60px;
+  position: absolute;
+  padding: 10px;
 }
